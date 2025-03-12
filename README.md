@@ -1,7 +1,8 @@
 # Data_analysis_IPL
  Analyzing IPL data using Apache Spark on Databricks
 
- *STEPS*
+STEPS
+
 Step 1: Set Up Databricks Environment
         Create a Databricks workspace (if not already set up).
         Launch a cluster with Apache Spark.
